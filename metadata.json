@@ -1,0 +1,5 @@
+{
+  "description": "Secure GitHub OAuth implementation for Oryn Server with Cloudflare Worker backend and React frontend.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
